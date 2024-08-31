@@ -1,0 +1,16 @@
+{
+  "name": "dominity-vite-app",
+  "version": "0.5.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.4.1"
+  },
+  "dependencies": {
+    "dominity": "^6.1.5"
+  }
+}
