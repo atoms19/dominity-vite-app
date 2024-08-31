@@ -12,7 +12,7 @@ function welcomeScreen(){
 
 return div({id:'app'},
  a( img({ src: viteLogo, class: "logo", alt: "vite logo" })),
-  a(img({ src: dominityLogo, class: "logo vanilla", alt: "js logo" })),
+  a({href:'https://dominity.vercel.app',target:'_blank'},img({ src: dominityLogo, class: "logo vanilla", alt: "js logo" })),
   h1("hello vite + Dominity"),
   div({ class: "card" },
   counter()    
