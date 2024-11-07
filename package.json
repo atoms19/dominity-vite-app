@@ -11,6 +11,6 @@
     "vite": "^5.4.1"
   },
   "dependencies": {
-    "dominity": "^6.1.5"
+    "dominity": "^6.2.7"
   }
 }
